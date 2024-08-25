@@ -1,0 +1,12 @@
+---
+groups:
+- name: batch-job-rules
+  rules:
+  - alert: JenkinsJobExceededThreshold
+    annotations:
+       summary: "Jenkins job exceeded a threshold of 30 seconds."
+       description: "The Jenkins job {{ $labels.job }} has exceeded the threshold duration."
+    expr: jenkins_job_duration_seconds{job="backup"} > 30
+    for: 1m
+    labels:
+      severity: warning
