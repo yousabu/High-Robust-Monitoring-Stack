@@ -1,6 +1,11 @@
 # Prometheus-stack
 Install Prometheus on Ubuntu
-
+- Prometheus
+- Grafana
+- Alert Manager
+- Node Exporter
+- Push Gateway
+- Slack 
 
 ![Screenshot from 2024-08-25 16-41-20](https://github.com/user-attachments/assets/e403cbda-0534-4c85-976a-f139920dbaec)
 
