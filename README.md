@@ -32,7 +32,6 @@
 ![Screenshot from 2024-08-27 11-24-44](https://github.com/user-attachments/assets/62bb6b06-7b72-4e01-b44b-0f3950d5809d)
 
 
-## -------
 
 
 # Push Gateway and Node Exporter
