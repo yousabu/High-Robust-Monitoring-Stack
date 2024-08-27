@@ -1,5 +1,4 @@
-# Prometheus-stack
-Install Prometheus on Ubuntu
+# Monitoring Components:
 - Prometheus
 - Kafka
 - Logstash
@@ -10,7 +9,7 @@ Install Prometheus on Ubuntu
 - Slack 
 
 
-![High-Robust-Monitoring-Stack](https://github.com/user-attachments/assets/be1dc73e-a902-46d5-a42f-b9ba32a1d27d)
+![Screenshot from 2024-08-27 11-02-09](https://github.com/user-attachments/assets/95bf0ac2-03f0-4a78-9bbb-5ecb3104a306)
 
 
 ![Screenshot from 2024-08-25 16-41-20](https://github.com/user-attachments/assets/e403cbda-0534-4c85-976a-f139920dbaec)
